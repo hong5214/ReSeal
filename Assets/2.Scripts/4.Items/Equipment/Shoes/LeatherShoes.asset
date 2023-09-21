@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef341ef7d912a940afdfb60da07c51a, type: 3}
+  m_Name: LeatherShoes
+  m_EditorClassIdentifier: 
+  itemType: 0
+  equipType: 4
+  itemImage: {fileID: 21300000, guid: 73d6f3ea82d69b24db292229881d65a6, type: 3}
+  itemPrefab: {fileID: 3584208128561225502, guid: 1f63e48fc378ef544a4eb6db09658568,
+    type: 3}
